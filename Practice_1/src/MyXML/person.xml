@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+	<person>
+		<name>冰醋</name>
+		<age>1000</age>
+	</person>
+	<person>
+		<name>猫</name>
+		<age>999</age>
+	</person>
+</persons>

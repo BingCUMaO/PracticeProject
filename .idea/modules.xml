@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BallGame/BallGame.iml" filepath="$PROJECT_DIR$/BallGame/BallGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlockChain/BlockChain.iml" filepath="$PROJECT_DIR$/BlockChain/BlockChain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Mode/Design Mode.iml" filepath="$PROJECT_DIR$/Design Mode/Design Mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyGame/MyGame.iml" filepath="$PROJECT_DIR$/MyGame/MyGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyORM/MyORM.iml" filepath="$PROJECT_DIR$/MyORM/MyORM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWebServer/MyWebServer.iml" filepath="$PROJECT_DIR$/MyWebServer/MyWebServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_1/Practice_1.iml" filepath="$PROJECT_DIR$/Practice_1/Practice_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+    </modules>
+  </component>
+</project>
